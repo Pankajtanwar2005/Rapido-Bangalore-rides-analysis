@@ -111,10 +111,7 @@ def main():
     📍 
 
     📧 [Email](mailto:pankajtanwar2005@gmail.com@gmail.com)  
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mallikarjuna-reddy-841190246/)  
-    [![GitHub](https://img.shields.io/badge/-GitHub-gray?logo=github)](https://github.com/MallikarjunaReddy448/)  
-    [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?logo=hackerrank)](https://www.hackerrank.com/mallikarjunred19)  
-    [![Tableau](https://img.shields.io/badge/-Tableau-orange?logo=tableau)](https://public.tableau.com/app/profile/mallikarjuna.reddy.gurrala/vizzes)
+    
     """, unsafe_allow_html=True)
 
 
@@ -645,7 +642,7 @@ def main():
 
 
     # Footer
-    st.write("📊 **Developed by Anish ** \n\n Check out the about page for more information and contact details for colloboration(Khosyaanish@gmail.com" \
+    st.write("📊 **Developed by Pankaj ** \n\n Check out the about page for more information and contact details for colloboration(Pankajtanwar2005@gmail.com" \
     ")")
     
     
